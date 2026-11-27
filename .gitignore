@@ -157,4 +157,5 @@ vite.config.ts.timestamp-*
 .nx/migrate-runs
 
 # CLAUDE
+CLAUDE.md
 /claude
